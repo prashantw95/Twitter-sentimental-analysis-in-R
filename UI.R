@@ -1,4 +1,4 @@
-# Made with ???? by Ankit Pandey (https://www.github.com/ankit2web)
+# Made with ???? by prashant walke, suvarna vaidya, saniksha Bhusappa and Punam Chaudhari. (https://github.com/prashantw95/Twitter-sentimental-analysis-in-R.git)
 #
 # This is the user-interface definition of a Shiny web application. You can
 # run the application by clicking 'Run App' above.
